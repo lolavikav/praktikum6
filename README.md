@@ -48,7 +48,7 @@ for nama, nomor in kontak.items():
 
  ## Hasil program tersebut
 
-![Screenshot 2024-11-19 054749](https://github.com/user-attachments/assets/798bae92-f995-4e1d-b029-8a7708d935d3)
+![Screenshot 2024-11-19 054909](https://github.com/user-attachments/assets/2d85028f-c6e6-4857-9378-5191ddd9a056)
 
  ## Input Nilai.py
 
